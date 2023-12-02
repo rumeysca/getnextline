@@ -1,0 +1,14 @@
+deneme
+bir
+yazi
+123
+
+
+
+dst
+deneme
+b\0
+
+
+buf
+ir\ny
